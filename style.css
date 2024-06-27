@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(101, 82, 242);
+}
+.header_div{
+    background-color: rgb(205, 255, 220);
+    color:black
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    font-size:18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+    color: crimson;
+    background-color: chartreuse;
+}
